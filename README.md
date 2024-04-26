@@ -1,4 +1,6 @@
-# Base-Camp
-Base Camp Exercise.
-The Base Camp Exercise will grant you 5 Base Camp dev roles in the Base Discord also some Soulbound NFTs on Testnet. SEE screenshot: ![Screenshot 2024-04-26 at 9 33 37 PM](https://github.com/samuelchimmy/Base-Camp/assets/12859710/9912ca04-9d5e-42ee-801e-e3e2bc532e18)
+<style> pre(class*=language-) Base-Camp (font-size: 10 em;) </style> 
+# Base Camp Exercise.*
+The Base Camp Exercise will grant you 5 Base Camp dev roles in the Base Discord also some Soulbound NFTs on Testnet. SEE screenshot: <img src="https://github.com/samuelchimmy/Base-Camp/assets/12859710/41e54a1c-6c3a-4ea8-91c9-4a252d63887f" width="5%"></img> 
+
+LET'S BEGIN:
 
