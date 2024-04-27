@@ -45,7 +45,7 @@ Create a New workspace
 9. Create, Compile SillyStringUtils.sol (no deploy) 
 10. Create, Compile and deploy Imports.sol
 11. Create, Compile and deploy Errors.sol 
-12. Create, and Compile AddressBook.sol (toggle 8.25 commit when you compile) 
+12. Create, and Compile AddressBook.sol (toggle 8.25 commit if error arises, don't deploy) 
 13. Create, Compile and deploy Other contract.Sol 
 14. Create, Compile & Deploy Minimal.sol
 15. Create, Compile and Deploy ERC20.sol
