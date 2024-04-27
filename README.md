@@ -45,9 +45,12 @@ Create a New workspace
 9. Create, Compile SillyStringUtils.sol (no deploy) 
 10. Create, Compile and deploy Imports.sol
 11. Create, Compile and deploy Errors.sol
-    Video: https://youtu.be/u592m0t8t9M?si=by5s7xbhp7Ga4pJB
 13. Create, and Compile AddressBook.sol (toggle 8.25 commit if error arises, don't deploy) 
 14. Create, Compile and deploy Other contract.Sol 
 15. Create, Compile & Deploy Minimal.sol
 16. Create, Compile and Deploy ERC20.sol
 17. Create, Compile and Deploy ERC721.so
+
+
+    Video: https://youtu.be/u592m0t8t9M?si=by5s7xbhp7Ga4pJB
+
