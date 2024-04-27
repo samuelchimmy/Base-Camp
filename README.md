@@ -10,23 +10,25 @@ Open The following webpage on your browser:
 4. Base Camp Doc for claiming your NFTs: https://docs.base.org/base-camp/docs/welcome
 5. Add Base Sepolia Testnet network to your metamask wallet; https://chainlist.org/?search=base+sepo&testnets=true
 
-# The Exercise Involves creating,Compiling and Deploying the following Files.
+*The Exercise Involves creating,Compiling and Deploying the following Files*
 
-# The Video will show you how to Copy the code from each files on here, how to create a new file in remix,compile and deploy.
+*The Video below will show you how to Copy the code from each files on here, how to create a new file in remix,compile and deploy.*
 
-# In the video Deploy you will also see how to connect your wallet to Remix properly (Via Injected Provider-Metamask)
+*The video will also guide you on how to connect your wallet to Remix properly (Via Injected Provider-Metamask)*
 
-# If you already know your way around Remix, you can skip the video and complete the numbered instructions below. 
+*If you already know your way around Remix, you can skip the video and complete the numbered instructions below.*
 
 # To earn the NFT reward, follow these steps:
 
-Complete each exercise listed below.
-Copy the smart contract address of each completed exercise.
+*Complete each exercise listed below.
+Copy the smart contract address of each completed exercise (you can find it by opening the tx on metamask after each deployment).
 Paste the copied address into the specified field on the Basecamp doc.
 Connect your wallet and sign the transaction.
-Refresh the Basecamp document page to view your NFT reward.
+Refresh the Basecamp document page to view your NFT reward.*
 
 # ENTER
+Get testnet faucet from link above
+Chain network to Base Sepolia via link above
 Open Remix, (Link above)
 Create a New workspace
    
