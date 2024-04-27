@@ -44,7 +44,7 @@ Create a New workspace
 8. Create, Compile and Transact Inheritance.sol via Salesperson & EngineeringManager. Then via Inheritance Submission
 9. Create, Compile SillyStringUtils.sol (no deploy) 
 10. Create, Compile and deploy Imports.sol
-11.Compile and deploy Errors.sol 
+11. Create, Compile and deploy Errors.sol 
 12. Create, and Compile AddressBook.sol (toggle 8.25 commit when you compile) 
 13. Create, Compile and deploy Other contract.Sol 
 14. Create, Compile & Deploy Minimal.sol
